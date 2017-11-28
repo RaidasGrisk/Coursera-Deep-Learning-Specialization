@@ -1,10 +1,5 @@
 1. What do you think applying this filter to a grayscale image will do?
 
-0 1 -1  0
-1 3 -3 -1
-1 3 -3 -1
-0 1 -1  0
-
 - [ ] Detect image contrast
 - [ ] Detect 45 degree edges
 - [x] Detect vertical edges
