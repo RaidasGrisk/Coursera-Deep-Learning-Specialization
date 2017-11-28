@@ -7,7 +7,7 @@ The specialization includes 5 courses:
 1. Neural networks and deep learning
 2. Improving deep neural networks
 3. Structuring machine learning projects
-4. [Convolutional neural networks](/Convolutional%20neural%20networks)
+4. Convolutional neural networks
    - [week 1: Basics of CNN](/Convolutional%20neural%20networks/week1/)
    - [week 2: Residual Networks and Inception Networks](/Convolutional%20neural%20networks/week2/)
 5. Sequance models
