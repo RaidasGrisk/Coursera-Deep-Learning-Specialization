@@ -10,5 +10,6 @@ The specialization includes 5 courses:
 4. Convolutional neural networks
    - [week 1: Basics of CNN](/Convolutional%20neural%20networks/week1/)
    - [week 2: Residual Networks and Inception Networks](/Convolutional%20neural%20networks/week2/)
+   - [week 3: Object detection and YOLO algorithm](/Convolutional%20neural%20networks/week3/)
 5. Sequance models
 
