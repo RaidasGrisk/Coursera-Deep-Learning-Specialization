@@ -53,9 +53,9 @@ In neural style transfer, what is updated in each iteration of the optimization 
 
 10. Question 10
 You are working with 3D data. You are building a network layer whose input volume has size 32x32x32x16 (this volume has 16 channels), and applies convolutions with 32 filters of dimension 3x3x3 (no padding, stride 1). What is the resulting output volume?
-   - [ ] 30x30x30x16
-   - [x] 30x30x30x32
-   - [ ] Undefined: This convolution step is impossible and cannot be performed because the dimensions specified don’t match up.
+    - [ ] 30x30x30x16
+    - [x] 30x30x30x32
+    - [ ] Undefined: This convolution step is impossible and cannot be performed because the dimensions specified don’t match up.
 
 
 
