@@ -12,9 +12,9 @@
 
 3. Suppose your input is a 300 by 300 color (RGB) image, and you use a convolutional layer with 100 filters that are each 5x5. How many parameters does this hidden layer have (including the bias parameters)?
    - [ ] 2501
-   - [ ] 2600 (5 * 5 * 100 + 100, I think this one should be the correct answer, but it acctually says no)
+   - [ ] 2600 
    - [ ] 7500
-   - [x] 7600
+   - [x] 7600 (5 * 5 * 3 * 100 + 100)
 
 4. You have an input volume that is 63x63x16, and convolve it with 32 filters that are each 7x7, using a stride of 2 and no padding. What is the output volume?
    - [x] 29x29x32
