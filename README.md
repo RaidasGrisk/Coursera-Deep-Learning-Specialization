@@ -13,4 +13,4 @@ The specialization includes 5 courses:
    - [week 3: Object detection and YOLO algorithm](/Convolutional%20neural%20networks/week3/)
    - [week 4: One-shot-Learning (face recognition) and Neural style transfer](/Convolutional%20neural%20networks/week4/)
 5. Sequance models
-
+   - [week 1: Basics of RNN. Generating dinosour names and jazz music](/Sequence%20models/week1/)
